@@ -12,7 +12,7 @@
     margin-bottom: 20px;
 }
 .portfolio__filter {
-    font-family: 'Share Tech Mono';
+    font-family: 'DM Sans';
     font-size: 24px;
     line-height: 0.95;
     color: #141414;
@@ -94,14 +94,14 @@
 }
 
 .discr__text {
-    font-family: 'Roboto';
+    font-family: 'DM Sans';
     font-style: normal;
     font-weight: 300;
     font-size: 12px;
-    line-height: 130%;
+    line-height: 1.8;
     color: #FFFFFF;
     @media screen and (min-width: 780px) {
-        font-size: 18px;
+        font-size: 14px;
     }
 }
 
