@@ -8,18 +8,6 @@
   backdrop-filter: blur(20px);
   width: 100%;
   padding: 50px 0;
-  // @media screen and (min-width: 780px) {
-  //   width: 424px;
-  //   height: 100%;
-  //   position: absolute;
-  //   top: 0;
-  //   left: 0;
-  //   opacity: 0.9;
-  //   padding: 60px 0;
-  // }
-  // @media screen and (min-width: 1400px) {
-  //   left: 300px;
-  // }
 }
 
 .contact__title {
@@ -31,14 +19,6 @@
   color: #ffffff;
   margin-bottom: 30px;
 }
-
-// #map iframe {
-//   height: 600px;
-//   width: 100%;
-//   @media screen and (min-width: 780px) {
-//     height: 700px;
-//   }
-// }
 
 .contact__link {
   display: flex;
@@ -70,24 +50,6 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  // flex-wrap: wrap;
-  // justify-content: center;
-  // align-items: center;
-  // margin-bottom: 23px;
-  // padding: 0;
-
-  // position: absolute;
-  // top: 484px;
-  // left: 20px;
-  // &__list {
-  //   margin-right: 8px;
-  //   margin-bottom: 8px;
-  // }
-  // @media screen and (min-width: 780px) {
-  //   position: absolute;
-  //   top: 626px;
-  //   left: 20px;
-  // }
 }
 .socials__list-footer {
   margin-bottom: 10px;
@@ -111,12 +73,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  // padding-left: 46px;
-  // @media screen and (min-width: 780px) {
-  //   width: 320px;
-  //   height: 70px;
-  //   margin: 0 auto;
-  // }
   &:hover {
     background: linear-gradient(
       108.46deg,

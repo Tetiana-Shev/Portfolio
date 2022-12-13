@@ -99,7 +99,6 @@
   @media screen and (min-width: 1400px) {
     display: flex;
     justify-content: space-between;
-    // padding-top: 55px;
     align-items: baseline;
   }
 }
@@ -157,9 +156,6 @@
     font-size: 14px;
     line-height: 1.2;
     color: #fff;
-    // color: #323232;
-    // text-shadow: 2px 0 #fff, -2px 0 #fff, 0 2px #fff, 0 -2px #fff, 1px 1px #fff,
-    //   -1px -1px #fff, 1px -1px #fff, -1px 1px #fff;
     @media screen and (min-width: 780px) {
       font-size: 14px;
       line-height: 1.2;
@@ -238,22 +234,7 @@
     justify-content: center;
     // background-color: inherit;
     cursor: pointer;
-  // @media screen and (min-width: 1400px) {
-  //   border: 4px solid #ffffff;
-  //   border-radius: 20px;
-  //   display: flex;
-  //   align-items: center;
-  //   width: 280px;
-  //   height: 70px;
-  //   justify-content: center;
-  //   background-color: inherit;
-  //   cursor: pointer;
-
-    // position: absolute;
-    // z-index: 1;
-    // top: 680px;
-    // left: 20px;
-  // }
+  
   .left {
     opacity: 10%;
     margin-right: 23px;
@@ -280,7 +261,6 @@
   font-size: 14px;
   line-height: 1.41;
   color: #ffffff;
-  // margin-right: 30px;
 }
 .socials__btn {
   width: 80px;
