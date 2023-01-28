@@ -32,7 +32,9 @@
 .responsive__btn,
 .git__btn,
 .webpack__btn,
-.parcel__btn {
+.parcel__btn, 
+.react__btn, 
+.redux__btn {
   width: 111px;
   height: 111px;
   background: linear-gradient(
@@ -68,7 +70,9 @@
 .js__text,
 .responsive__text,
 .webpack__text,
-.parcel__btn {
+.parcel__btn, 
+.react__text, 
+.redux__text {
   color: #ffffff;
   padding-top: 16px;
   font-family: 'DM Sans';
